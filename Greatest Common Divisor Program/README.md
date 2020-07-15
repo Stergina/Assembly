@@ -1,4 +1,4 @@
-# Greatest Common Divisor Program
+# Greatest Common Divisor Program in MIPS32 Assembly
 
 
 **Objective**:  
