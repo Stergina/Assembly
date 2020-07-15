@@ -1,4 +1,4 @@
-# Sparse Arrays Program
+# Sparse Arrays Program in MIPS32 Assembly
 
 
 **Objective**:  
